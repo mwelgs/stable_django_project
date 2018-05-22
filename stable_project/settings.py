@@ -30,6 +30,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['stable_project2.herokuapp.com',
                  'localhost',
+                 'welgs1.herokuapp.com',
                  'stable_projectclimbing.com',
                  'www.stable_projectclimbing.com']
 
