@@ -28,10 +28,11 @@ SECRET_KEY = '7fd5^_bgzmq!8!-7zm=b*w3jfgk4bkn!0i+hfx(3mh!$!+pqan'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['stable_project2.herokuapp.com',
+ALLOWED_HOSTS = ['djangostableproject.herokuapp.com',
+                 'stable_project2.herokuapp.com',
                  'welgs1.herokuapp.com',
-                 'localhost',
-                 'djangostableproject.herokuapp.com']
+                 'localhost'
+                 ]
 
 # Application definition
 
