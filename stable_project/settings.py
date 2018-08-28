@@ -32,7 +32,8 @@ ALLOWED_HOSTS = ['stable_project2.herokuapp.com',
                  'welgs1.herokuapp.com',
                  'localhost',
                  'stable_projectclimbing.com',
-                 'www.stable_projectclimbing.com']
+                 'www.stable_projectclimbing.com'
+                'djangostableproject.herokuapp.com']
 
 # Application definition
 
